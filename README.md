@@ -1,7 +1,7 @@
 # AutoDDH
 
 ## Graphic Abstract
-![image](overview.png)
+![image](EGCD-YOLO.png)
 
 ## Overview
 AutoDDH is a deep learning framework designed to assist in the grading of Developmental Dysplasia of the Hip (DDH) using ultrasound images. This network leverages a dual attention mechanism and multi-task learning to enhance feature extraction and improve diagnostic accuracy.
