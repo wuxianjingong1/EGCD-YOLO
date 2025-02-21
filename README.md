@@ -1,4 +1,4 @@
-# AutoDDH
+# EGCD-YOLO
 
 ## Graphic Abstract
 ![image](EGCD-YOLO.png)
@@ -13,24 +13,8 @@ EGCD-YOLO is an advanced real-time garbage classification detector designed to a
 - pandas
 - matplotlib
 
-  
-## Getting Started
-### Data Preparation: Ensure that your dataset is organized in the following structure:
-```
-data/DDH/
-├── train/
-│   ├── img/
-│   └── seg/
-├── val/
-│   ├── img/
-│   └── seg/
-└── test/
-    ├── img/
-    └── seg/
-
-```
-### Training: Run the training script using the provided command-line interface.
-### Evaluation: Evaluate the model's performance on the test dataset.
+##tip
+The main configuration file is in the ultralytics/cfg/models/v8 folder
 
 
 ## Usage
