@@ -1,0 +1,134 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# African-wildlife datasets by Ultralytics
+# Documentation: https://docs.ultralytics.com/datasets/detect/african-wildlife/
+# Example usage: yolo train data=yolo-bvn.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── african-wildlife  ← downloads here (100 MB)
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: garbage # datasets root dir
+train: images/train # train images (relative to 'path') 1052 images
+val: images/val # val images (relative to 'path') 225 images
+test:  # test images (relative to 'path') 227 images
+
+# Classes
+names:
+  0: pipette
+  1: plastic cup
+  2: plastic lunch box
+  3: plastic bowl
+  4: plastic bag
+  5: plastic bottle
+  6: plastic can
+  7: plastic bottle cap
+  8: plastic pot
+  9: foam box
+  10: foam fragment
+  11: tissue
+  12: paper
+  13: card
+  14: paper bag
+  15: cardboard box
+  16: paper box
+  17: paper cup
+  18: glass
+  19: glass bottle
+  20: broken glass
+  21: glass cup
+  22: broken pot
+  23: ceramic
+  24: ceramic bottle
+  25: ceramic chip
+  26: ceramic bowl
+  27: metal
+  28: can
+  29: metal pot
+  30: metal box
+  31: wire
+  32: metal fragment
+  33: metal block
+  34: tin foil box
+  35: tinfoil
+  36: pot
+  37: board
+  38: chopsticks
+  39: prod
+  40: toothpick
+  41: cigarette
+  42: toiletries
+  43: cosmetic
+  44: toothbrush
+  45: mask
+  46: doll
+  47: toy
+  48: hanger
+  49: pillow
+  50: old clothes
+  51: bag
+  52: shoe
+  53: plug
+  54: electric wire
+  55: powerbank
+  56: battery
+  57: cellphone
+  58: food residue
+  59: vegetable
+  60: tea leaf
+  61: fruit
+  62: bone
+  63: eggshell
+  64: leaf
+  65: pericarp
+  66: tyre
+  67: rubber ring
+  68: mobile phone shell
+  69: pill case
+  70: pill
+  71: ointment
+  72: fishbone
+  73: metal can
+  74: can ring
+  75: branch
+  76: lighter
+  77: glove
+  78: flower
+  79: rope
+  80: balloon
+  81: flossing
+  82: chair
+  83: tv control
+  84: toothpaste
+  85: plastic bucket
+  86: pen
+  87: key
+  88: plastic box
+  89: padlock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
