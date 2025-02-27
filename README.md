@@ -19,7 +19,7 @@ EGCD-YOLO is an advanced real-time garbage classification detector designed to a
 - lr0:0.01
 - lrf:0.01
 - Momentum:0.937
-- Weight-decay:$5 \times 10^{-4}$
+- Weight-decay: $5 \times 10^{-4}$
 - input image size:640×640
 - Optimizer:SGD
 - iou:0.7
