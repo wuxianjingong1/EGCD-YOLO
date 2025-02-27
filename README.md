@@ -36,7 +36,7 @@ python yolov8-train.py
 
 ## Citation
 
-> Xiaofan Lin, Weihao Lai, Weicheng Yan1, Yinghuai Yu,Ziqi Huang, Tianyi Zhao, Xuanhao Hu, "Efficient Garbage Classification using Enhanced
+> Xiaofan Lin, Weihao Lai, Weicheng Yan, Yinghuai Yu,Ziqi Huang, Tianyi Zhao, Xuanhao Hu, "Efficient Garbage Classification using Enhanced
 YOLOv8: A High-Precision and Lightweight Approach", 《The Visual Computer》, 2025.  
 
 
